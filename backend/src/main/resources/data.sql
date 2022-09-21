@@ -12,3 +12,5 @@ INSERT INTO tb_user_role (user_id, role_id) VALUES (2, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 1);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 3);
+
+INSERT INTO tb_course (name, img_uri, img_gray_uri) VALUES ('BOOTCAMP HTML', 'https://media.istockphoto.com/photos/motion-blure-background-with-road-picture-id865925132?s=612x612', 'https://cdn.pixabay.com/photo/2017/03/08/14/20/flat-2126878__340.png');
